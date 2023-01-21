@@ -1,0 +1,14 @@
+#search {
+    height: 450px;
+    background-color: aqua;
+  }
+
+.coupon {
+    height: 300px;
+    width: 400px;
+    background-color: #2874f0;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 35%;
+    z-index: 100;
+  }
